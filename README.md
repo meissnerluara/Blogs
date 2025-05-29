@@ -1,7 +1,7 @@
 # Alunos Responsáveis
 
-- Luara Godoy Meissner Pereira - 11221103634  
-- Eli Makoto Higashi Matias - 11221101848
+- Luara Godoy Meissner Pereira  
+- Eli Makoto Higashi Matias
 
 # Sobre o Projeto
 

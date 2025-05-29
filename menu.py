@@ -98,4 +98,3 @@ while comando != "14":
     menu()
     comando = input("\nEscolha uma opção: ")
     executar(comando)
-    

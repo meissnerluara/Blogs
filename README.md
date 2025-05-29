@@ -1,15 +1,15 @@
 # Alunos Responsáveis
 
-- *Luara Godoy Meissner Pereira
-- *Eli Makoto Higashi Matias
+- Luara Godoy Meissner Pereira
+- Eli Makoto Higashi Matias
 
 # Sobre o Projeto
 
-*Atividade 3 - M2 - Estruturas Lineares
+Atividade 3 - M2 - Estruturas Lineares
 
-*Tema: Blogs e Fóruns
+Tema: Blogs e Fóruns
 
-*Sistema de Blog/Fórum com funcionalidades de CRUD para usuários, tópicos e postagens, integração com banco de dados MySQL, uso de IA (Cohere), e visualizações com matriz, grafo e gráfico.
+Sistema de Blog/Fórum com funcionalidades de CRUD para usuários, tópicos e postagens, integração com banco de dados MySQL, uso de IA (Cohere), e visualizações com matriz, grafo e gráfico.
 
 # Instale as dependências:
 

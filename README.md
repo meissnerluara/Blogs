@@ -5,9 +5,9 @@
 
 # Sobre o Projeto
 
-**Faculdade:** Universidade de Mogi das Cruzes
-**Matéria:** Estruturas Lineares
-**Professor:** Adilson Lima da Silva
+**Faculdade:** Universidade de Mogi das Cruzes  
+**Matéria:** Estruturas Lineares  
+**Professor:** Adilson Lima da Silva  
 **Tema:** Blogs e Fóruns
 
 Sistema de Blog/Fórum com funcionalidades de CRUD para usuários, tópicos e postagens, integração com banco de dados MySQL, uso de IA (Cohere), e visualizações com matriz, grafo e gráfico.

@@ -5,8 +5,7 @@
 
 # Sobre o Projeto
 
-Atividade 3 - M2
-
+**Faculdade:** Universidade de Mogi das Cruzes
 **Matéria:** Estruturas Lineares
 **Professor:** Adilson Lima da Silva
 **Tema:** Blogs e Fóruns

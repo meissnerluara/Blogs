@@ -1,8 +1,3 @@
-# Alunos Responsáveis
-
-- Luara Godoy Meissner Pereira
-- Eli Makoto Higashi Matias
-
 # Sobre o Projeto
 
 **Faculdade:** Universidade de Mogi das Cruzes  
@@ -12,11 +7,16 @@
 
 Sistema de Blog/Fórum com funcionalidades de CRUD para usuários, tópicos e postagens, integração com banco de dados MySQL, uso de IA (Cohere), e visualizações com matriz, grafo e gráfico.
 
-# Instale as dependências:
+## Alunos Responsáveis
+
+- Luara Godoy Meissner Pereira
+- Eli Makoto Higashi Matias
+
+## Instale as dependências:
 
 pip install mysql-connector-python python-dotenv cohere matplotlib networkx
 
-# Banco de Dados
+## Banco de Dados
 
 Crie o banco de dados "bdblog" no MySQL Workbench com as tabelas:
 
@@ -46,7 +46,7 @@ CREATE TABLE postagens (
 );
 ```
 
-# Variáveis de Ambiente
+## Variáveis de Ambiente
 
 Crie um arquivo `.env` na raiz com:
 
@@ -63,13 +63,13 @@ Obter API Key da Cohere:
 1. Acesse: [https://dashboard.cohere.com/welcome/register](https://dashboard.cohere.com/welcome/register) e crie uma conta.
 2. Após o login, gere sua API Key em: [https://dashboard.cohere.com/api-keys](https://dashboard.cohere.com/api-keys)
 
-# IA com Cohere
+## IA com Cohere
 
 No cadastro de postagens, o usuário pode optar por gerar um título automaticamente com a IA com base no conteúdo da postagem.
 
-# Visualizações
+## Visualizações
 
-- Interface interativa (via terminal e via Forms).
+- Interface interativa (via terminal e Forms).
 - Matriz de Postagens (Usuário x Tópico).
-- Grafo de Conexões entre Usuário x Tópico.
+- Grafo de Conexões (Usuário x Tópico).
 - Gráfico de Barras (Usuário x Tópico).
